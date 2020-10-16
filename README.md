@@ -1,2 +1,2 @@
 # hello-world
-I don't know what this is about.
+i am sharan nripesh from amrita university
